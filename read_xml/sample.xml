@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<countries>
+<country id="1">
+    <name>Turkey</name>
+    <capital>Ankara</capital>
+</country>
+
+<country id="2">
+    <name>Brazil</name>
+<capital>Sao_Paulo</capital>
+    </country>
+
+<country id="3">
+<name>America</name>
+<capital>New_York</capital>
+</country>
+    </countries>
