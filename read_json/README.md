@@ -6,5 +6,5 @@
 - https://github.com/sahinramazan ile beraber çalışılmıştır.
 
 
-![alt text](https://github.com/halimebeyzacicek/Android_studio_projects/blob/main/photos/5.png)
-![alt text](https://github.com/halimebeyzacicek/Android_studio_projects/blob/main/photos/6.png)
+![alt text](https://github.com/halimebeyzacicek/Proje_1_University/blob/main/photos/3.png)
+![alt text](https://github.com/halimebeyzacicek/Proje_1_University/blob/main/photos/4.png)
